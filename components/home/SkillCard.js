@@ -18,9 +18,10 @@ const SkillCard = ({ data }) => {
               <data.Icon />
             </div>
             <div className="text-blue-500 font-serif">
-              <a target={"_blank"} href={data.link} rel="">
-                view profile
-              </a>
+              {" "}
+              <Link href={data.link}>
+                <a target={"_blank"}>view profile</a>
+              </Link>
             </div>
           </div>
         </div>

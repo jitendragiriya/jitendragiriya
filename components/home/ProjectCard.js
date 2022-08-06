@@ -1,8 +1,8 @@
 import React from "react";
 import { TbExternalLink } from "react-icons/tb";
+import Link from "next/link";
 
 const ProjectCard = ({ data }) => {
-  console.log(data);
   return (
     <>
       {data ? (
@@ -13,9 +13,11 @@ const ProjectCard = ({ data }) => {
               <data.Icon />
             </div>
             <div className="text-blue-500 font-semibold text-2xl">
-              <a target={"_blank"} href={data.link} rel="">
-                <TbExternalLink />
-              </a>
+              <Link href={data.link}>
+                <a target={"_blank"}>
+                  <TbExternalLink />
+                </a>
+              </Link>
             </div>
           </div>
           {/* second row */}
