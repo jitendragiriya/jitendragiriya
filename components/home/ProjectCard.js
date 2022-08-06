@@ -13,7 +13,7 @@ const ProjectCard = ({ data }) => {
               <data.Icon />
             </div>
             <div className="text-blue-500 font-semibold text-2xl">
-              <a target={"_blank"} href={data.link}>
+              <a target={"_blank"} href={data.link} rel="">
                 <TbExternalLink />
               </a>
             </div>
