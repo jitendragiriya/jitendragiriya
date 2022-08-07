@@ -68,13 +68,15 @@ const ProjectEditModal = ({ close, data }) => {
               value={name}
             />
           </div>
-          <input
-            type={"text"}
-            placeholder={"Project Tech Used"}
-            className="outline-none border p-2 w-full border-black"
-            onChange={(e) => setTech(e.target.value)}
-            value={tech}
-          />
+          <div className="mt-6 relative">
+            <input
+              type={"text"}
+              placeholder={"Project Tech Used"}
+              className="outline-none border p-2 w-full border-black"
+              onChange={(e) => setTech(e.target.value)}
+              value={tech}
+            />
+          </div>
           <div className="mt-6 relative">
             <textarea
               type={"text"}
