@@ -1,6 +1,8 @@
 import React from "react";
-import { TbExternalLink } from "react-icons/tb";
 import Link from "next/link";
+import { SiDjango } from "react-icons/si";
+import { FaReact } from "react-icons/fa";
+import { TbBrandNextjs, TbExternalLink } from "react-icons/tb";
 
 const ProjectCard = ({ data }) => {
   return (
@@ -10,7 +12,15 @@ const ProjectCard = ({ data }) => {
           {/* first row */}
           <div className="flex w-full justify-between items-center border-b p-4 pb-2">
             <div className="text-4xl">
-              <data.Icon />
+              {data.tech === "django" ? <SiDjango /> : <></>}
+              {data.tech === "reactjs" ||
+              data.tech === "nodejs" ||
+              data.tech === "mern" ? (
+                <FaReact />
+              ) : (
+                <></>
+              )}
+              {data.tech === "nextjs" ? <TbBrandNextjs /> : <></>}
             </div>
             <div className="text-blue-500 font-semibold text-2xl">
               <Link href={data.link}>
