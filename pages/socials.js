@@ -4,7 +4,7 @@ import AddSocial from "../components/social/AddSocial";
 import EditSocialCard from "../components/social/EditSocialCard";
 import { BASE_URL } from "../constants";
 
-const socials = (props) => {
+const Socials = (props) => {
   const [datas, setDatas] = useState([]);
   const [loading, setLoading] = useState(true);
   const [open, setOpen] = useState(false);
@@ -58,4 +58,4 @@ export async function getServerSideProps() {
   };
 }
 
-export default socials;
+export default Socials;

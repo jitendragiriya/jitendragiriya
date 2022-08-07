@@ -4,7 +4,7 @@ import AddProject from "../components/project/AddProject";
 import EditProjectCard from "../components/project/EditProjectCard";
 import { BASE_URL } from "../constants";
 
-const projects = (props) => {
+const Projects = (props) => {
   const [datas, setDatas] = useState([]);
   const [loading, setLoading] = useState(true);
   const [open, setOpen] = useState(false);
@@ -58,4 +58,4 @@ export async function getServerSideProps() {
   };
 }
 
-export default projects;
+export default Projects;
