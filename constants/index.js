@@ -1,1 +1,1 @@
-export const BASE_URL = "https://jitendrag-portfolio.herokuapp.com";
+export const BASE_URL = "https://backend-projects.up.railway.app";
