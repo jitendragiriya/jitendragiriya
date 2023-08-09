@@ -1,4 +1,4 @@
-<p align="center">🌟 Welcome to Jitendar Giriya's GitHub Profile 🌟</p>
+<p align="center" size="40px">🌟 Welcome to Jitendar Giriya's GitHub Profile 🌟</p>
 
 <p align="center">
   <img src="https://your-image-url.com" alt="">
@@ -6,23 +6,15 @@
 
 ### 🧚‍♀️ About Me
 
-Hello there! 👋 I'm [Your Name], a passionate [Your Profession] based in [Your Location]. I believe in the power of technology to shape a better future and I'm always excited to learn and explore new things.
+Hello there! 👋 I'm Jitendra Giriya, a passionate developer, based in India. I believe in the power of technology to shape a better future and I'm always excited to learn and explore new things.
 
-### 🌱 What I'm Up To
-
-- 🔭 Currently working on [Current Project Name]
-- 🌱 Learning [Programming Language/Technology]
-- 📚 Reading [Book/Article Name]
 
 ### 🚀 My Tech Stack
 
-- Programming Languages: [Languages]
-- Frameworks & Libraries: [Frameworks/Libraries]
-- Tools & Technologies: [Tools/Technologies]
-
-### 🌟 My Achievements
-
-- [Any notable achievements or projects]
+- Programming Languages: Javascript
+- Frameworks & Libraries: Reactjs, Nextjs, Nodejs, Tailwindcss, Material UI.
+- Tools & Technologies: 
+ 
 
 ### 📫 Let's Connect
 
