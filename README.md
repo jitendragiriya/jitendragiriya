@@ -1,7 +1,7 @@
 <p align="center">🌟 Welcome to Jitendar Giriya's GitHub Profile 🌟</p>
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="Profile Banner">
+  <img src="https://your-image-url.com" alt="">
 </p>
 
 ### 🧚‍♀️ About Me
@@ -42,6 +42,4 @@ Feel free to explore my repositories and don't hesitate to connect. Let's learn 
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/thank-you.gif" alt="Thank You">
 </p>
 
----
-
-*Note: Replace placeholders like `[Your Name]`, `[Your Profession]`, etc., with your actual information. You can also customize the URLs, images, and content to match your preferences. Feel free to add more sections or modify the structure as you see fit.*
+ 
