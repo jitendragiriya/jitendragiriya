@@ -13,7 +13,6 @@ Hello there! 👋 I'm Jitendra Giriya, a passionate developer, based in India. I
 
 - Programming Languages: Javascript
 - Frameworks & Libraries: Reactjs, Nextjs, Nodejs, Tailwindcss, Material UI.
-- Tools & Technologies:
  
   <img src="https://drive.google.com/file/d/1XAlHz55YNep2Rfi1eUO-hWMcNg2Mvkhc/view?usp=sharing"  alt="">
 ### 📫 Let's Connect 
