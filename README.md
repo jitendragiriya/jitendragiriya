@@ -16,22 +16,18 @@ Hello there! 👋 I'm Jitendra Giriya, a passionate developer, based in India. I
 - Tools & Technologies: 
  
 
-### 📫 Let's Connect
-
-You can reach me via [Your Preferred Contact Method] and find more about me on [Your Personal Website/Blog].
-
-### 🎶 Fun Facts
-
-- 🌌 I'm a stargazer and love astronomy.
-- 🎨 I enjoy painting during my free time.
-- 🍵 Tea lover and collector of unique tea mugs.
+### 📫 Let's Connect 
+<a href="https://www.linkedin.com/in/jitendragiriya">
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" heigth="30px" width="55px" alt="">
+</a>
+<a href="https://mail.google.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" heigth="30px" width="40px" hspace="16px" alt="">
+  
+</a>
+ 
 
 ### 🙏 Thanks for visiting my profile!
 
 Feel free to explore my repositories and don't hesitate to connect. Let's learn and grow together! 🌱
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/thank-you.gif" alt="Thank You">
-</p>
 
  
