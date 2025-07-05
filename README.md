@@ -21,10 +21,10 @@ Hello there! 👋 I'm Jitendra Giriya, a passionate developer, based in India. I
  
 ### 📫 Let's Connect 
 </br>
-<a href="https://www.linkedin.com/in/jitendragiriya">
+<a href="https://mail.google.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" heigth="30px" width="55px" alt="">
 </a>
-<a href="https://mail.google.com/">
+<a href="https://www.linkedin.com/in/jitendragiriya">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" heigth="30px" width="40px" hspace="16px" alt="">
 </a>
  
